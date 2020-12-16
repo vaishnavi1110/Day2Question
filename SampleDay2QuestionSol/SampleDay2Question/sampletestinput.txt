@@ -1,0 +1,5 @@
+input 1,9
+ouput 2,4,6,8
+
+input 12,18
+output 14,16
