@@ -4,7 +4,7 @@ namespace SampleDay2Question
 {
     class Program
     {
-        static void count_even_odd(int min, int max)
+        static void count_even(int min, int max)
         {
 
 
@@ -23,7 +23,7 @@ namespace SampleDay2Question
             int min = 1, max = 7;
 
 
-            count_even_odd(min, max);
+            count_even(min, max);
 
         }
     }
