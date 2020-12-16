@@ -11,3 +11,16 @@ D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debu
 D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.dll
 D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.pdb
 D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.genruntimeconfig.cache
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.exe
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.deps.json
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.runtimeconfig.json
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.runtimeconfig.dev.json
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.dll
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.pdb
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.csprojAssemblyReference.cache
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.AssemblyInfoInputs.cache
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.AssemblyInfo.cs
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.csproj.CoreCompileInputs.cache
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.dll
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.pdb
+H:\LTI\Splz\Day2\Day2Question\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.genruntimeconfig.cache
