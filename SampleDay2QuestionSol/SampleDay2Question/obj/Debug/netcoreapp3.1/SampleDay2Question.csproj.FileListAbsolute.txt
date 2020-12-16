@@ -1,0 +1,13 @@
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.exe
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.deps.json
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.runtimeconfig.json
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.runtimeconfig.dev.json
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.dll
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\bin\Debug\netcoreapp3.1\SampleDay2Question.pdb
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.csprojAssemblyReference.cache
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.AssemblyInfoInputs.cache
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.AssemblyInfo.cs
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.csproj.CoreCompileInputs.cache
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.dll
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.pdb
+D:\LTI\specialization\Day2Ques\SampleDay2QuestionSol\SampleDay2Question\obj\Debug\netcoreapp3.1\SampleDay2Question.genruntimeconfig.cache
