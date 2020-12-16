@@ -4,7 +4,7 @@ namespace SampleDay2Question
 {
     class Program
     {
-        static void count_even_odd(int min, int max)
+        static void count_even(int min, int max)
         {
 
 
@@ -23,9 +23,13 @@ namespace SampleDay2Question
             int min = 1, max = 7;
 
 
+<<<<<<< HEAD
             count_even_odd(min, max);
             Console.WriteLine("Utkarsh");
             
+=======
+            count_even(min, max);
+>>>>>>> c86fd6284d2d9792eeaa2e51f9ebc5b46b1a4ec0
 
         }
     }
